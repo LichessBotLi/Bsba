@@ -260,10 +260,10 @@ matchmaking:
       variant: chess960
 
 messages:
-  greeting: "Konnichiwa guzaimase! ❤️‍🔥Using help of {engine} Type !help to glimpse my arsenal. Best of luck"
-  goodbye: "GGs, ezz. May we meet again, may I win again 💶 {me} signing off!"
-  greeting_spectators: "ITZ {engine} in {me} competing for more depth with @{opponent} Type !help for a list of commands."
-  goodbye_spectators: "SIMULATION TERMINATED@{opponent}.May our paths cross again!?Thanks For watching, {me} signing off!"
+  greeting: "Hey mate,I am {me}, made to win.Good luck"
+  goodbye: "GGs, ezz. May we meet again, may I win again 💶 {me} ,nvm,hehe."
+  greeting_spectators: "Type !help for a list of command and yeah enjoy the game."
+  goodbye_spectators: "Thanks mate for watching,have a great day:D"
 
 whitelist:
   - Supratsa
